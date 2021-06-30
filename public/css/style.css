@@ -1,0 +1,38 @@
+.login-box {
+    color: #5e665e;
+    grid-column: 20rem;
+    grid-template-columns: 20rem;
+
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    margin: -150px 0 0 -150px;
+    width: 500px;
+    height: 600px;
+}
+.login-box h2 {
+    color: rgb(71, 15, 228);
+
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.error {
+    color: red;
+    text-align: center;
+
+}
+nav h1 {
+    color: white;
+}
+.tittle {
+    color: #5e665e;
+    grid-column: 20rem;
+    grid-template-columns: 20rem;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    margin: -150px 0 0 -150px;
+    width: 500px;
+    height: 600px;
+}
